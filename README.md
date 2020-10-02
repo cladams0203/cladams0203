@@ -10,9 +10,9 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-<body>
-  <section>
-    <img src="./assets/background2.gif" style="width: 100%" />
-        <h1>Chris Adams</h1>
-  </section>
-</body>
+
+# Hello, My Name is Chris Adams
+
+<div>
+    <img src="./assets/background2.gif" style="width: 100%"></img>
+</div>
