@@ -28,7 +28,9 @@
 ## My Current Tech Stack
 
 ```
-HTML, CSS, Javascript, Java, React, React Native, Redux, Recoil, Conflux, Spring, Express, PostgreSQL, Sqlite3, AWS, Firebase, OAuth2.0, LESS, SASS, Styled-Components, Bootstrap, Greensock and Material-UI
+HTML, CSS, Javascript, Java, React, React Native, Redux, Recoil, Conflux, Spring, Express,
+PostgreSQL, Sqlite3, AWS, Firebase, OAuth2.0, LESS, SASS, Styled-Components, Bootstrap,
+Greensock and Material-UI
 ```
 
 ## If you would like more information about me here are some links.
