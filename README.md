@@ -1,11 +1,6 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
-Hello
-
-<!--
 **cladams0203/cladams0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,5 +9,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+<body>
+  <section>
+    <img src="./assets/background2.gif" style="width: 100%" />
+        <h1>Chris Adams</h1>
+  </section>
+</body>
